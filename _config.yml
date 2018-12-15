@@ -1,1 +1,4 @@
-theme: jekyll-theme-hacker
+name: Adarsh Jain
+markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
