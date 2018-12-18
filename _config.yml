@@ -1,4 +1,18 @@
+title: Adarsh Jain
 name: Adarsh Jain
+logo: /static/img/avatar.png
+
+allowsearch: true
+
+social:
+    name: Adarsh Jain
+    links:
+        - https://www.linkedin.com/in/adarsh-jain
+        - https://www.facebook.com/IAmAdarshJain
+        - https://github.com/Adarsh-sophos
+
+share:
+    twitter_username: IAmAdarshJain
+
 markdown: kramdown
 theme: jekyll-theme-hacker
-permalink: /blog/:year/:month/:day/:title

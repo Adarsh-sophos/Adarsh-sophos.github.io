@@ -2,6 +2,7 @@
 layout: post
 title: "Useful Docker Commands"
 date: 2018-12-15
+permalink: /blog/:year/:month/:day/:title
 ---
 
 # Useful commands for Docker
