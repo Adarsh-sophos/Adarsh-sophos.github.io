@@ -1,17 +1,21 @@
+---
+title: Projects
+---
+
 # Projects
 
-## [Arcus - My Own Cloud](/project_pages/acrus.md)
+## [Arcus - My Own Cloud](/projects/Arcus-My-Own-Cloud)
 
-## [Shiksha](/project_pages/shiksha.md)
+## [Shiksha](/projects/Shiksha)
 
-## [Why? - Question Answer Platform](/project_pages/why.md)
+## [Why? - Question Answer Platform](/projects/Why-Question-Answer-Platform)
 
-## [8085 Emulator](/project_pages/8085.md)
+## [8085 Emulator](/projects/8085-Emulator)
 
-## [Airport Management System](/project_pages/airport.md)
+## [Airport Management System](/projects/Airport-Management-System)
 
-## [ExSell - An Online Marketplace](/project_pages/exsell.md)
+## [ExSell - An Online Marketplace](/projects/ExSell-An-Online-Marketplace)
 
-## [Macro Pre-processor](/project_pages/macro.md)
+## [Macro Pre-processor](/projects/Macro-Pre-processor)
 
-## [Rosh - An Interpreted Language](/project_pages/rosh.md)
+## [Rosh - An Interpreted Language](/projects/Rosh-An-Interpreted-Language)
